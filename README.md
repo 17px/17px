@@ -19,16 +19,10 @@ Frontend newbie,A big fan of debugging with console.log(). Pros daidaiwo plz. mu
 
 <a href="http://www.github.com/17px"><img src="https://github-readme-stats.vercel.app/api?username=17px&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="17px's GitHub stats" /></a>
 
-<a href="https://github.com/17px" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17px&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/17px/typecho-theme-Moz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=17px&repo=typecho-theme-Moz&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/17px/hexo-theme-cosy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=17px&repo=hexo-theme-cosy&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/17px"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<a href="https://www.buymeacoffee.com/17px"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
