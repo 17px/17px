@@ -1,7 +1,7 @@
 Frontend newbie,A big fan of debugging with console.log(). Pros daidaiwo plz. much appreciated! 🙏
 
 * 🌍  I'm based in China Mainland
-* 🖥️  See my portfolio at [陈不渡](http://mozzie.cn)
+* 🖥️  See my portfolio at [陈不渡](http://maxshader.com)
 * ✉️  You can contact me at [himozzie@foxmail.com](mailto:himozzie@foxmail.com)
 * 🧠  I'm learning rust
 * 🤝  I'm open to collaborating on medical 3D
